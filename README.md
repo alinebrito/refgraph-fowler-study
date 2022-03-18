@@ -3,7 +3,7 @@
 
 The
 refactoring operations performed by the students (and our analysis) are publicly
-available at: [xx]().
+available at: [alinebrito.github.io/refgraph-fowler-study](https://alinebrito.github.io/refgraph-fowler-study).
 
 ## Class Diagram
 
