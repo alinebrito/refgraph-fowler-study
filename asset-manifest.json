@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/refgraph-fowler-study/static/css/main.705c4685.chunk.css",
+    "main.js": "/refgraph-fowler-study/static/js/main.76bca0ba.chunk.js",
+    "main.js.map": "/refgraph-fowler-study/static/js/main.76bca0ba.chunk.js.map",
+    "runtime-main.js": "/refgraph-fowler-study/static/js/runtime-main.d0a68fca.js",
+    "runtime-main.js.map": "/refgraph-fowler-study/static/js/runtime-main.d0a68fca.js.map",
+    "static/js/2.992dffca.chunk.js": "/refgraph-fowler-study/static/js/2.992dffca.chunk.js",
+    "static/js/2.992dffca.chunk.js.map": "/refgraph-fowler-study/static/js/2.992dffca.chunk.js.map",
+    "index.html": "/refgraph-fowler-study/index.html",
+    "precache-manifest.a15af39513b3ccc98a56972e823aae7d.js": "/refgraph-fowler-study/precache-manifest.a15af39513b3ccc98a56972e823aae7d.js",
+    "service-worker.js": "/refgraph-fowler-study/service-worker.js",
+    "static/css/main.705c4685.chunk.css.map": "/refgraph-fowler-study/static/css/main.705c4685.chunk.css.map",
+    "static/js/2.992dffca.chunk.js.LICENSE.txt": "/refgraph-fowler-study/static/js/2.992dffca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0a68fca.js",
+    "static/js/2.992dffca.chunk.js",
+    "static/css/main.705c4685.chunk.css",
+    "static/js/main.76bca0ba.chunk.js"
+  ]
+}
