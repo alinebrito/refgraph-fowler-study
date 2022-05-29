@@ -1,19 +1,35 @@
-# Understanding Refactoring Tasks over Time: A Study Using Refactoring Graphs
+# Summary
 
-__Summary:__ Refactoring is a fundamental practice in modern software development. Therefore, it is essential that practitioners have a solid understanding of refactoring, both in theory and in practice. In this paper, we
-rely on a graph-based abstraction---called refactoring graphs---to understand, visualize and analyze refactorings performed by students in a canonical refactoring application: the Video Store System, proposed by Fowler. We asked 46 students to perform the refactorings included in this example under two scenarios: according to a list of explicit and well-defined guidelines and using flexible and more open guidelines. 
-By using a graph distance metric automatically computed over refactoring graphs, we find that, for explicit guidelines, most students performed the refactoring tasks successfully. On the other hand, when following flexible ones, a significant part of the students faced problems to identify the appropriate operations.
+Repository of the paper "Understanding Refactoring Tasks over Time: A Study Using Refactoring Graphs" accepted at XXV Ibero-American Conference on Software Engineering (CIbSE), 2022.
 
-__Dataset:__ The
-refactoring operations performed by the students (and our analysis) are publicly
-available at: [alinebrito.github.io/refgraph-fowler-study](https://alinebrito.github.io/refgraph-fowler-study).
+The study is described in details in the following paper:
+
+> Aline Brito, Andre Hora, and Marco Tulio Valente. [Understanding Refactoring Tasks over Time:
+A Study Using Refactoring Graphs](https://alinebrito.com/papers/cibse2022_refactoring_graphs.pdf). XXV Ibero-American Conference on Software Engineering ([CIbSE](https://cibse2022.frc.utn.edu.ar)), 2022.
+
+```
+@inproceedings{Brito:CIbSE:2022:RefGraphs,
+    author = {Aline Brito and Andre Hora and Marco Tulio Valente},
+    title = {Understanding Refactoring Tasks over Time: A Study Using Refactoring Graphs},
+    year = {2022},
+    booktitle = {XXV Ibero-American Conference on Software Engineering (CIbSE)},
+    pages = {1-15}
+}
+```
+
+Webpage and dataset: [alinebrito.github.io/refgraph-fowler-study](https://alinebrito.github.io/refgraph-fowler-study)
+
 
 ## Class Diagram
 
 Initial class diagram of the  Video Store System:
 
-<img src="img/diagram-initial-version.svg" width="400" style="">
+<img src="img/diagram-initial-version.svg" width="600" style="">
 
 Final version after applying the refactorings:
 
-<img src="img/diagram-final-version.svg" width="500" style="">
+<img src="img/diagram-final-version.svg" width="800" style="">
+
+## Refactoring subgraph from Video Store System (ground-truth)
+
+<img src="img/fig_fowler_graph_ground_truth.png" width="600" style="">
